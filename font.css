@@ -10,6 +10,9 @@
     font-family: web2_b;
     src: url("https://raw.githubusercontent.com/mrbusy1/fonts/main/web2_b.otf"), 
     url("https://raw.githubusercontent.com/mrbusy1/fonts/main/web2_b.ttf") format("opentype");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
 }
 @font-face {
     font-family: 'Mehr Nastaliq Web 3';
