@@ -1,0 +1,52 @@
+@font-face {
+    font-family: IndoPak;
+    src: local("AlQuran IndoPak by QuranWBW"),
+        url("https://raw.githubusercontent.com/mrbusy1/fonts/main/IndoPak.woff2") format("woff2"),
+        url("https://raw.githubusercontent.com/mrbusy1/fonts/main/IndoPak.woff") format("woff"),
+        url("https://raw.githubusercontent.com/mrbusy1/fonts/main/IndoPak.ttf")format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: web2_b;
+    src: url("https://raw.githubusercontent.com/mrbusy1/fonts/main/web2_b.otf"), 
+    url("https://raw.githubusercontent.com/mrbusy1/fonts/main/web2_b.ttf") format("opentype");
+}
+@font-face {
+    font-family: 'Mehr Nastaliq Web 3';
+    src: local("Mehr Nastaliq Web 3"),
+    url("https://raw.githubusercontent.com/mrbusy1/fonts/main/Mehr%20Nastaliq%20Web%203.ttf");
+}
+@font-face {
+    font-family: surahnames;
+    src: url("https://raw.githubusercontent.com/mrbusy1/fonts/main/sura_names.woff2"),
+        url("https://raw.githubusercontent.com/mrbusy1/fonts/main/sura_names.woff") format("woff");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+@font-face {
+    font-family: MehrNastaliq;
+    src: local("Mehr Nastaliq Web"),
+        url("https://raw.githubusercontent.com/mrbusy1/fonts/main/MehrNastaliqWeb.woff2"),
+        url("https://raw.githubusercontent.com/mrbusy1/fonts/main/MehrNastaliqWeb.woff") format("woff"),
+        url("https://raw.githubusercontent.com/mrbusy1/fonts/main/MehrNastaliqWeb.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    unicode-range: U+600-6FF;
+}
+@font-face {
+    font-family: "Al_Mushaf";
+    src: local("Al_Mushaf"), url("https://raw.githubusercontent.com/mrbusy1/fonts/main/Al_Mushaf.ttf");
+}
+@font-face {
+    font-family: 'Aslam';
+    src: local("Aslam"),
+        url("https://raw.githubusercontent.com/mrbusy1/fonts/main/Aslam.ttf");
+}
+@font-face {
+    font-family: 'PDMS';
+    src: local("PDMS"),
+        url("https://raw.githubusercontent.com/mrbusy1/fonts/main/PDMS.ttf");
+}
+
